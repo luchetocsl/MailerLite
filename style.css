@@ -95,3 +95,7 @@ a.size-base {
 		padding-right: 5rem;
 	}
 }
+
+.tabs {
+	overflow-x: scroll;
+}
