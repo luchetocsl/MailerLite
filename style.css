@@ -145,3 +145,126 @@ a.size-base {
 		),
 		linear-gradient(#f5f5f5, #f5f5f5);
 }
+
+.gradient-3 {
+	background: linear-gradient(
+			-8.473deg,
+			#86c39c 17%,
+			#85c29b 25%,
+			#83be98 32%,
+			#7fb894 38%,
+			#79b18e 42%,
+			#73a786 45%,
+			#6c9d7e 48%,
+			#649175 51%,
+			#5b856b 53%,
+			#527761 56%,
+			#496a56 59%,
+			#3f5d4c 63%,
+			#364f41 67%,
+			#2d4237 72%,
+			#25362e 79%,
+			#1d2b25 88%
+		),
+		linear-gradient(#f5f5f5, #f5f5f5);
+}
+
+.gradient-4 {
+	background: linear-gradient(
+			94.783deg,
+			#86c39c 17%,
+			#85c29b 25%,
+			#83be98 32%,
+			#7fb894 38%,
+			#79b18e 42%,
+			#73a786 45%,
+			#6c9d7e 48%,
+			#649175 51%,
+			#5b856b 53%,
+			#527761 56%,
+			#496a56 59%,
+			#3f5d4c 63%,
+			#364f41 67%,
+			#2d4237 72%,
+			#25362e 79%,
+			#1d2b25 88%
+		),
+		linear-gradient(#f5f5f5, #f5f5f5);
+}
+
+.gradient-5 {
+	background: linear-gradient(
+			92.486deg,
+			#86c39c 17%,
+			#85c29b 25%,
+			#83be98 32%,
+			#7fb894 38%,
+			#79b18e 42%,
+			#73a786 45%,
+			#6c9d7e 48%,
+			#649175 51%,
+			#5b856b 53%,
+			#527761 56%,
+			#496a56 59%,
+			#3f5d4c 63%,
+			#364f41 67%,
+			#2d4237 72%,
+			#25362e 79%,
+			#1d2b25 88%
+		),
+		linear-gradient(#f5f5f5, #f5f5f5);
+}
+
+.gradient-6 {
+	background: linear-gradient(
+			139.589deg,
+			#86c39c 17%,
+			#85c29b 25%,
+			#83be98 32%,
+			#7fb894 38%,
+			#79b18e 42%,
+			#73a786 45%,
+			#6c9d7e 48%,
+			#649175 51%,
+			#5b856b 53%,
+			#527761 56%,
+			#496a56 59%,
+			#3f5d4c 63%,
+			#364f41 67%,
+			#2d4237 72%,
+			#25362e 79%,
+			#1d2b25 88%
+		),
+		linear-gradient(#f5f5f5, #f5f5f5);
+}
+
+.gradient-7 {
+	background: linear-gradient(
+			-52.052deg,
+			#86c39c 17%,
+			#85c29b 25%,
+			#83be98 32%,
+			#7fb894 38%,
+			#79b18e 42%,
+			#73a786 45%,
+			#6c9d7e 48%,
+			#649175 51%,
+			#5b856b 53%,
+			#527761 56%,
+			#496a56 59%,
+			#3f5d4c 63%,
+			#364f41 67%,
+			#2d4237 72%,
+			#25362e 79%,
+			#1d2b25 88%
+		),
+		linear-gradient(#f5f5f5, #f5f5f5);
+}
+
+.ml-shadow {
+	box-shadow: 0px 85px 24px 0px rgba(0, 0, 0, 0),
+		0px 54px 22px 0px rgba(0, 0, 0, 0.01),
+		0px 31px 18px 0px rgba(0, 0, 0, 0.05),
+		0px 14px 14px 0px rgba(0, 0, 0, 0.09),
+		0px 3px 7px 0px rgba(0, 0, 0, 0.1);
+}
