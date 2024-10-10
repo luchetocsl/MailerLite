@@ -99,3 +99,26 @@ a.size-base {
 .tabs {
 	overflow-x: scroll;
 }
+
+.gradient-1 {
+	background: linear-gradient(
+			-105.914deg,
+			#86c39c 17%,
+			#85c29b 25%,
+			#83be98 32%,
+			#7fb894 38%,
+			#79b18e 42%,
+			#73a786 45%,
+			#6c9d7e 48%,
+			#649175 51%,
+			#5b856b 53%,
+			#527761 56%,
+			#496a56 59%,
+			#3f5d4c 63%,
+			#364f41 67%,
+			#2d4237 72%,
+			#25362e 79%,
+			#1d2b25 88%
+		),
+		linear-gradient(#f5f5f5, #f5f5f5);
+}
